@@ -29,8 +29,9 @@ function multiplica(x, y) {
 }
 
 function obtenerResto(x, y) {
-  let resto = x % y
-  return resto 
+  let resto = (x % y);
+
+  return resto ;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
